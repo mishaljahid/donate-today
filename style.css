@@ -1,19 +1,27 @@
 body {
-    color: white;
     font-family: 'Poppins', sans-serif;
+}
+
+.half-width {
+    color: white;
     font-size: cover;
     background-image: url(images/donation13.jpg);
     background-size: cover;
     background-position: center center;
     padding: 8% 15% 8% 15%;
     font size-adjust: 0.58;
-
 }
 
 h1 {
     text-align: center;
     font-weight: 700;
     font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
 }
 
 p {
@@ -31,9 +39,13 @@ p {
     border-radius: 7px;
     background-image: linear-gradient(red, orange);
     font-weight: 700;
+}
 
+.section {
+    margin-bottom: 150px;
 
+}
 
-
-
+.color-add {
+    color: rgb(168, 119, 119);
 }
